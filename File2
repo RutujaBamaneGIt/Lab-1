@@ -1,0 +1,4 @@
+git checkout -b JavaScript
+echo "console.log('Hello JavaScript');" > js_test.js
+git add js_test.js
+git commit -m "Added JavaScript test script"
