@@ -1,0 +1,6 @@
+git checkout -b Java
+echo "System.out.println('Hello Java');" > java_test.java
+git add java_test.java
+git commit -m "Added Java test script"
+
+
